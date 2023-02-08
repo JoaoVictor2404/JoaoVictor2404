@@ -1,4 +1,4 @@
-# João Victor
+# 👨🏽‍💻 João Victor 👨🏽‍💻
 
 
 Pleasure, I'm João Victor da Silva Souza, I've been passionate about technology since I was a child. I'm attending college at IBEMEC in software engineering, and having many years of programming in the fivem area. The SkyForceTI program has over 1,500 hours of classes and covers front-end, back-end, computer science, software engineering, agile methodologies and soft skills. The SkyForceTI project will be finished later this year.
