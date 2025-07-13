@@ -1,40 +1,116 @@
-# 👨🏽‍💻 João Victor 👨🏽‍💻
+<!-- ===================================================== -->
+<!-- PERFIL – README.md | João Victor                      -->
+<!-- Repositório: JoaoVictor2404                           -->
+<!-- ===================================================== -->
 
+<!-- Banner / Avatar -------------------------------------->
+<p align="center">
+  <!-- Troque a imagem abaixo pela sua ou remova se não quiser banner -->
+  <img src="https://github.com/JoaoVictor2404/JoaoVictor2404/blob/main/.github/assets/avatar-circle.png" width="140" alt="logo">
+</p>
 
-Nice to meet you, I'm João Victor da Silva Souza, I've been passionate about technology since I was a child. I have many years of programming in the .lua language.
+<h1 align="center">Olá, eu sou o João Victor! <img height="24" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="parrot"/></h1>
+<p align="center">Desenvolvedor Full Stack • Web • Games • UX/UI</p>
 
+<hr/>
 
-Prazer, sou o João Victor da Silva Souza, sou apaixonado por tecnologia desde criança. Tenho muitos anos de programação na linguagem .lua.
+<table align="center">
+  <tr>
+    <!-- COLUNA ESQUERDA --------------------------------- -->
+    <td width="260px" valign="top">
 
-# Hard Skills and Tools
+      <!-- MINI BIO -->
+      <h3>📜 Sobre</h3>
+      <ul>
+        <li>💼 5+ anos de experiência</li>
+        <li>📍 Rio de Janeiro – BR</li>
+        <li>🎓 Formado em Sistemas de Informação</li>
+        <li>🌱 Sempre estudando novas stacks</li>
+      </ul>
 
-**About me:**
+      <!-- CONTATOS -->
+      <h3>📫 Contato</h3>
+      <p>
+        <a href="mailto:SEUEMAIL@exemplo.com">E-mail</a><br/>
+        <a href="https://linkedin.com/in/SEU-LINKEDIN">LinkedIn</a><br/>
+        <!-- opcional -->
+        <a href="https://joaovictor.dev">Portfólio</a>
+      </p>
 
-- 👨🏽‍💻 Tech lover.
-- 📓 I like to learn new things.
-- ⚡ Proactive.
-- 👍 I like to collaborate.
-- 💼 I'm pursuing knowledge to evolve in my development career.
-- 💬 Ask me about.
+      <!-- SKILLS BADGES -->
+      <h3>🛠️ Tech Stack</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      </p>
 
+      <!-- SOCIAL BADGES -->
+      <h3>🌐 Comunidades</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white"/>
+      </p>
+    </td>
 
-**Sobre mim:**
+    <!-- COLUNA DIREITA --------------------------------- -->
+    <td valign="top">
 
-- 👨🏽‍💻 Amante de tecnologia.
-- 📓 Gosto de aprender coisas novas.
-- ⚡ Proativo.
-- 👍 Gosto de colaborar.
-- 💼 Estou buscando conhecimento para evoluir na minha carreira de desenvolvimento.
-- 💬 Pergunte-me sobre.
+      <!-- HABILIDADES ATUAIS -->
+      <h2>🔧 No que estou trabalhando</h2>
+      <ul>
+        <li>🕹️ <strong>Servidores de jogos</strong> customizados em <em>Lua + SQL</em></li>
+        <li>💻 <strong>Aplicações Web Full Stack</strong> (<em>React · PHP · REST APIs</em>)</li>
+        <li>🎨 <strong>UX/UI Design</strong> & prototipação avançada no <em>Figma</em></li>
+      </ul>
 
+      <!-- REPOSITÓRIOS EM DESTAQUE -->
+      <h2>📂 Destaques recentes</h2>
 
-# 🛠  Languages and Tools
-![java](https://user-images.githubusercontent.com/120526560/217629562-29c2507b-7b43-4377-af21-5e8c8e34edcf.svg) ![html](https://user-images.githubusercontent.com/120526560/217629658-fc472fe6-95b3-4f09-a3f7-459e9d5c1ed4.svg) ![css3](https://user-images.githubusercontent.com/120526560/217629824-15d465aa-8f84-45ab-982d-7b5b071d1181.svg) ![react](https://user-images.githubusercontent.com/120526560/217629884-089eeece-d89d-47e0-b1a8-511f44439647.svg) ![mysql](https://user-images.githubusercontent.com/120526560/217630077-ffd69bb9-c7e9-4419-a0e6-b0ae607f5581.svg)
+      <p>
+        <!-- Altere para os seus repositórios reais ou remova -->
+        <a href="https://github.com/JoaoVictor2404/otserv-farming-system">
+          <img width="49%" alt="otserv" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=otserv-farming-system&theme=tokyonight&hide_border=true"/>
+        </a>
+        <a href="https://github.com/JoaoVictor2404/dashboard-openfinance">
+          <img width="49%" alt="dash" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=dashboard-openfinance&theme=tokyonight&hide_border=true"/>
+        </a>
+      </p>
 
-# 🛠 Linguagens e Ferramentas
-![java](https://user-images.githubusercontent.com/120526560/217629562-29c2507b-7b43-4377-af21-5e8c8e34edcf.svg) ![html](https://user-images.githubusercontent.com/120526560/217629658-fc472fe6-95b3-4f09-a3f7-459e9d5c1ed4.svg) ![css3](https://user-images.githubusercontent.com/120526560/217629824-15d465aa-8f84-45ab-982d-7b5b071d1181.svg) ![react](https://user-images.githubusercontent.com/120526560/217629884-089eeece-d89d-47e0-b1a8-511f44439647.svg) ![mysql](https://user-images.githubusercontent.com/120526560/217630077-ffd69bb9-c7e9-4419-a0e6-b0ae607f5581.svg)
-# 📫 How to reach me
-📧 Email: joaovictordasilva2809@gmail.com
+      <!-- GRÁFICO DE CONTRIBUIÇÃO + ESTATÍSTICAS -->
+      <h2>📈 Estatísticas & Contribuições</h2>
 
-# 📫 Como chegar até mim
-📧 Email: joaovictordasilva2809@gmail.com
+      <p align="center">
+        <img width="90%" src="https://streak-stats.demolab.com/?user=JoaoVictor2404&theme=tokyonight_duo&hide_border=true"/>
+      </p>
+      <details>
+        <summary>Mais detalhes</summary>
+
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictor2404&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor2404&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+        </p>
+      </details>
+
+      <!-- ROADMAP / FUTURO -->
+      <h2>🗺️ Próximos passos</h2>
+      <ol>
+        <li>Escalar aplicações cloud-native em AWS</li>
+        <li>Lançar um SaaS próprio em 2025</li>
+        <li>Contribuir em projetos open-source focados em acessibilidade</li>
+      </ol>
+
+      <p align="center">🎯 <em>“Código limpo, design inteligente, experiência impecável.”</em></p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoVictor2404&style=flat&color=blue" alt="Profile views"/>
+  • Atualizado automaticamente — última build <!--{{ timestamp }}-->
+</p>
