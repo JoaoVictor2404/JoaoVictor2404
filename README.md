@@ -17,7 +17,7 @@ Desenvolvedor Full Stack • Web • Games • UX/UI
 - 🌱 Estudando **cloud AWS** e arquitetura de microsserviços  
 - 👯 Aberto a colaborar em projetos **React/Python** e integrações de API  
 - 💬 Pergunte-me sobre **React, PHP, Lua, Python**  
-- 📫 Contato: joaovictor@email.com · Discord: **gabmiller**
+- 📫 Contato: joaovictordasilva2809@email.com · Discord: **joaovictor_240**
 
 ---
 
