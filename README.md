@@ -2,11 +2,6 @@
 <!-- PERFIL – README.md | João Victor                      -->
 <!-- ===================================================== -->
 
-<!-- GIF / Avatar (opcional) -->
-<p align="right">
-  <img src="https://i.imgur.com/Qn9UO7o.gif" width="200" alt="coding gif">
-</p>
-
 # Olá, eu sou o João Victor! 🧑🏻‍💻  
 Desenvolvedor Full Stack • Web • Games • UX/UI
 
