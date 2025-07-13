@@ -1,6 +1,6 @@
 <!-- ===========  Início do README  =========== -->
 
-<h1 align="center">João Victor Souza</h1>
+<h1 align="center">João Victor da Silva Souza</h1>
 <h3 align="center">Full-Stack Developer • Web • Game Servers • UX/UI</h3>
 
 ---
