@@ -1,11 +1,9 @@
 <!-- ===================================================== -->
 <!-- PERFIL – README.md | João Victor                      -->
-<!-- Repositório: JoaoVictor2404                           -->
 <!-- ===================================================== -->
 
-<!-- Banner / Avatar -------------------------------------->
 <p align="center">
-  <!-- Troque a imagem abaixo pela sua ou remova se não quiser banner -->
+  <!-- Substitua por seu banner ou remova a linha -->
   <img src="https://github.com/JoaoVictor2404/JoaoVictor2404/blob/main/.github/assets/avatar-circle.png" width="140" alt="logo">
 </p>
 
@@ -16,10 +14,9 @@
 
 <table align="center">
   <tr>
-    <!-- COLUNA ESQUERDA --------------------------------- -->
+    <!-- COLUNA ESQUERDA -->
     <td width="260px" valign="top">
 
-      <!-- MINI BIO -->
       <h3>📜 Sobre</h3>
       <ul>
         <li>💼 5+ anos de experiência</li>
@@ -28,16 +25,13 @@
         <li>🌱 Sempre estudando novas stacks</li>
       </ul>
 
-      <!-- CONTATOS -->
       <h3>📫 Contato</h3>
       <p>
         <a href="mailto:SEUEMAIL@exemplo.com">E-mail</a><br/>
         <a href="https://linkedin.com/in/SEU-LINKEDIN">LinkedIn</a><br/>
-        <!-- opcional -->
         <a href="https://joaovictor.dev">Portfólio</a>
       </p>
 
-      <!-- SKILLS BADGES -->
       <h3>🛠️ Tech Stack</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -48,7 +42,6 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       </p>
 
-      <!-- SOCIAL BADGES -->
       <h3>🌐 Comunidades</h3>
       <p>
         <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/>
@@ -56,22 +49,18 @@
       </p>
     </td>
 
-    <!-- COLUNA DIREITA --------------------------------- -->
+    <!-- COLUNA DIREITA -->
     <td valign="top">
 
-      <!-- HABILIDADES ATUAIS -->
       <h2>🔧 No que estou trabalhando</h2>
       <ul>
         <li>🕹️ <strong>Servidores de jogos</strong> customizados em <em>Lua + SQL</em></li>
         <li>💻 <strong>Aplicações Web Full Stack</strong> (<em>React · PHP · REST APIs</em>)</li>
-        <li>🎨 <strong>UX/UI Design</strong> & prototipação avançada no <em>Figma</em></li>
+        <li>🎨 <strong>UX/UI Design</strong> &amp; prototipação avançada no <em>Figma</em></li>
       </ul>
 
-      <!-- REPOSITÓRIOS EM DESTAQUE -->
       <h2>📂 Destaques recentes</h2>
-
       <p>
-        <!-- Altere para os seus repositórios reais ou remova -->
         <a href="https://github.com/JoaoVictor2404/otserv-farming-system">
           <img width="49%" alt="otserv" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=otserv-farming-system&theme=tokyonight&hide_border=true"/>
         </a>
@@ -80,22 +69,18 @@
         </a>
       </p>
 
-      <!-- GRÁFICO DE CONTRIBUIÇÃO + ESTATÍSTICAS -->
-      <h2>📈 Estatísticas & Contribuições</h2>
-
+      <h2>📈 Estatísticas &amp; Contribuições</h2>
       <p align="center">
         <img width="90%" src="https://streak-stats.demolab.com/?user=JoaoVictor2404&theme=tokyonight_duo&hide_border=true"/>
       </p>
       <details>
         <summary>Mais detalhes</summary>
-
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictor2404&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor2404&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
         </p>
       </details>
 
-      <!-- ROADMAP / FUTURO -->
       <h2>🗺️ Próximos passos</h2>
       <ol>
         <li>Escalar aplicações cloud-native em AWS</li>
