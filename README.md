@@ -1,23 +1,19 @@
-<!-- ===================================================== -->
-<!-- PERFIL – README.md | João Victor                      -->
-<!-- ===================================================== -->
+<!-- ===========  Início do README  =========== -->
 
-# Olá, eu sou o João Victor! 🧑🏻‍💻  
-Desenvolvedor Full Stack • Web • Games • UX/UI
+<h1 align="center">João Victor Souza</h1>
+<h3 align="center">Full-Stack Developer • Web • Game Servers • UX/UI</h3>
 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em **servidores de jogos customizados** (Lua + SQL) e sistemas Web Full Stack  
-- 🌱 Estudando **cloud AWS** e arquitetura de microsserviços  
-- 👯 Aberto a colaborar em projetos **React/Python** e integrações de API  
-- 💬 Pergunte-me sobre **React, PHP, Lua, Python**  
-- 📫 Contato: joaovictordasilva2809@email.com · Discord: **joaovictor_240**
+- 🔭 Atuo em **servidores de jogos customizados** (Lua + SQL) e aplicações Web Full Stack  
+- 📚 Em evolução contínua em **AWS** e arquitetura de microsserviços  
+- 🤝 Disponível para colaborar em projetos **React | Python | Integrações de API**  
+- 📫 Contato: joaovictordasilva2809@email.com │ Discord: **joaovictor_240**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -33,41 +29,36 @@ Desenvolvedor Full Stack • Web • Games • UX/UI
 ---
 
 ## 📌 Repositórios em Destaque
-
 <a href="https://github.com/JoaoVictor2404/otserv-farming-system">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=otserv-farming-system&theme=tokyonight&hide_border=true">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=otserv-farming-system&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/JoaoVictor2404/dashboard-openfinance">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=dashboard-openfinance&theme=tokyonight&hide_border=true">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=dashboard-openfinance&theme=tokyonight&hide_border=true"/>
 </a>
 
 ---
 
 ## 📊 Atividade & Estatísticas
-
-<!-- gráfico de contribuições -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictor2404&theme=tokyonight&hide_border=true" width="100%">
-</p>
-
-<!-- cards de resumo -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictor2404&theme=tokyonight&no-bg=true&margin-w=5" width="100%">
+  <!-- Troféus (Experience removido) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictor2404&theme=tokyonight&margin-w=8&title=PullRequest,Repositories,Stars,Followers,Commits,Issues,Reviews&rank=-C" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictor2404&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictor2404&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictor2404&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
-<!-- linguagens mais usadas -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor2404&layout=compact&theme=tokyonight&hide_border=true" width="60%">
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictor2404&theme=tokyonight&hide_border=true"  height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictor2404&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor2404&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoVictor2404&style=flat&color=blue" alt="Visualizações de perfil">
+  <img src="https://komarev.com/ghpvc/?username=JoaoVictor2404&style=flat&color=blue" alt="Visualizações de perfil"/>
   &nbsp;•&nbsp; Sempre evoluindo e compartilhando conhecimento! 🚀
 </p>
+
+<!-- ===========  Fim do README  =========== -->
