@@ -47,7 +47,7 @@
 
 <!-- cards de resumo -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictor2404&theme=tokyonight&no-bg=true&margin-w=5" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictor2404&theme=tokyonight&no-bg=true&margin-w=5&row=2&column=4" width="100%">
 </p>
 
 <p align="center">
