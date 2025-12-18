@@ -9,7 +9,7 @@
 - 🔭 Atuo em **servidores de jogos customizados** (Lua + SQL) e aplicações Web Full Stack  
 - 📚 Em evolução contínua em **AWS** e arquitetura de microsserviços  
 - 🤝 Disponível para colaborar em projetos **React | Python | Integrações de API**  
-- 📫 Contato: joaovictordasilva2809@email.com │ Discord: **joaovictor_240**
+- 📫 Contato: joaovictordasilva2809@email.com │ Discord: **joaovt_souza**
 
 ---
 
