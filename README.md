@@ -75,7 +75,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictor2404&theme=tokyonight&no-bg=true&margin-w=5" width="100%">
 </p>
 
 <p align="center">
