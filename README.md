@@ -58,6 +58,13 @@
 
 ---
 
+## Featured Projects
+- AI POSTS — Content generation and automation project
+- Appointment Resource Manager — Scheduling and resource management platform
+- CRM RPS Manager — Management system focused on business workflows
+
+---
+
 ## GitHub Activity & Stats
 
 <p align="center">
