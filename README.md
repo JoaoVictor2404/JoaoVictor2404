@@ -60,10 +60,7 @@
 
 ## Featured Projects
 <a href="https://github.com/JoaoVictor2404/otserv-farming-system">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=otserv-farming-system&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/JoaoVictor2404/dashboard-openfinance">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=dashboard-openfinance&theme=tokyonight&hide_border=true"/>
+  <img width="47%" src="[https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictor2404&repo=otserv-farming-system&theme=tokyonight&hide_border=true](https://portfolio-7xld.onrender.com/projects)"/>
 </a>
 
 ---
