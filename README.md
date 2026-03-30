@@ -91,7 +91,8 @@
 
 ## Contact
 - Email: joaovictordasilva2809@email.com
-- Discord: joaovt_souza
+- LinkedIn: joaovt_souza
+- Portfolio: 
 
 ---
 
